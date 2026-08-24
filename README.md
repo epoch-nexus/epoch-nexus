@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello.gif" alt="Hi there GIF" width="400" />
+  <img src="https://raw.githubusercontent.com/epoch-nexus/epoch-nexus/main/assets/hello.gif" alt="Hi there GIF" width="400" />
 </p>
 
 <h2 align="center">Languages, Frameworks & Tools</h2>
