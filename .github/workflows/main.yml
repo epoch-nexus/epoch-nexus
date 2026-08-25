@@ -1,7 +1,10 @@
 name: Generate Datas
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # execute every 12 hours
+    # execute every 12 hours (fallback, e.g. for merged PRs from other branches)
     - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
