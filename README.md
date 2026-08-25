@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/epoch-nexus/epoch-nexus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/epoch-nexus/epoch-nexus/main/assets/hello.gif" alt="Hi there GIF" width="400" />
 </p>
-
 <h2 align="center">Languages, Frameworks & Tools</h2>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
@@ -21,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/epoch-nexus/epoch-nexus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/epoch-nexus/epoch-nexus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
